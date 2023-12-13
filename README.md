@@ -11,3 +11,8 @@ Funcionalidades implementadas na 1ª entrega para dia 13/12<br>
 -Leave Management : Foi criado uma função para redigir um licença salvo em um txt <br>
 -Compliance Reporting: Foi criado uma função para colocar se houve algum erro no compliance , também salvo em um txt
 
+#Para rodar<br>
+
+executar os comandos : <br>
+
+-python3 main.py
