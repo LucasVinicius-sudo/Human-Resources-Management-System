@@ -16,3 +16,15 @@ Funcionalidades implementadas na 1ª entrega para dia 13/12<br>
 executar os comandos : <br>
 
 -python3 main.py
+
+Funcionalidades implementadas na 2ª entrega para dia 17/01<br>
+-Payroll Processing<br>
+-Attendance<br>
+-Performance evaluation<br>
+-Compliance<br>
+-Leave Management<br>
+
+executar os comandos : <br>
+-python3 main.py
+
+
