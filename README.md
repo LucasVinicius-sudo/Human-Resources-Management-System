@@ -18,6 +18,7 @@ executar os comandos : <br>
 -python3 main.py
 
 Funcionalidades implementadas na 2ª entrega para dia 17/01<br>
+-Employee Profile Management<br>
 -Payroll Processing<br>
 -Attendance<br>
 -Performance evaluation<br>
