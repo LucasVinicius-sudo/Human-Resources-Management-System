@@ -23,6 +23,14 @@ Funcionalidades implementadas na 2ª entrega para dia 17/01<br>
 -Attendance<br>
 -Performance evaluation<br>
 -Compliance<br>
+
+<h1><br>Pasta do Projeto onde se foi utilizado conceitos de OO e Padrão Composite<br></h1>
+<br>-Acessar a Pasta Projeto_padrao<br>
+<br>-Baixar os arquivos<br>
+<br>-Rodar em um PC que tenha python os comandos :<br>
+-python3 portal_root.py
+-
+
 -Leave Management<br>
 
 executar os comandos : <br>
