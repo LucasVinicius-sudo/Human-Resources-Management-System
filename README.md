@@ -25,11 +25,11 @@ Funcionalidades implementadas na 2ª entrega para dia 17/01<br>
 -Compliance<br>
 
 <h1><br>Pasta do Projeto onde se foi utilizado conceitos de OO e Padrão Composite<br></h1>
-<br>-Acessar a Pasta Projeto_padrao<br>
+<br>-Acessar a Pasta projeto_padrao<br>
 <br>-Baixar os arquivos<br>
 <br>-Rodar em um PC que tenha python os comandos :<br>
--python3 portal_root.py
--
+<h2></h2>-python3 portal_root.py</h2>
+<br>-nisso abrirá um menu no terminal , e nesse terminal se pode executar alguns comandos(recomendo o comando "help" para listar todos</br>
 
 -Leave Management<br>
 
